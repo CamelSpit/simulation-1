@@ -17,7 +17,7 @@ export default class ShelfA extends Component {
                 </header>
 
                 <div>
-                    <Route path='/bins/A' component={ShelfA}/>
+                    <Route path='/A' component={ShelfA}/>
                 </div>
           </body>
         )

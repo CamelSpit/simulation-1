@@ -38,7 +38,7 @@ class App extends Component {
           </div></Link>
         </section>
         <div>
-          {Routes}
+          <Routes/>
         </div>
       </body>
 
